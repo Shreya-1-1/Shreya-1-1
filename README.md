@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... Full Stack Development
-- 🌱 I’m currently learning ... React
-- 💬 Ask me about ...Frontend
+- 🔭 I’m currently working on ... Android Development
+- 🌱 I’m currently learning ... Flutter
+- 💬 Ask me about ...Android
 - ⚡ Fun fact: ... I am dying each passing day:)
 
